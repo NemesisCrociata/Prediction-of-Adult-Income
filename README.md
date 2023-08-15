@@ -10,7 +10,7 @@ We've been tasked predict adult income based on standard features taken by the U
 - In order to make a clearer goal for the direction of the model, it can be imagined this data is being used in order to identify lower-income individuals who qualify for supportive services.
 
 ## Data:
-[Original Dataset]([https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/])
+[Original Dataset](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
 
 ### The data was cleaned and certain data was dropped due to irrelevance to the data
 This includes all samples below the age of 18.
