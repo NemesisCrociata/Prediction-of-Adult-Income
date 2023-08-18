@@ -50,4 +50,10 @@ The following Machine Learning models were tested:
 ## Limitations and Next Steps
 - Although the Random Forest Classifier model is the best model so far, the disparity between the testing and the training results show it is overfit to the data. This could be due to computational limitations while setting parameters.
 
+- Further development of the model to reduce both false positives and false negatives is suggested. The reduction of false positives takes priority, but since the accuracy rate of predicting false negatives is only 62%, this would be a major focus.
+
+- Due to the relatively low accuracy rate of predicting false negatives/predicting people who are high-income as low-income, it is recommended that stakeholders implement further income screening to make sure that funding is allocated only for people who are low-income and truly need supportive services.
+
+- Due to the trends seen regarding education level vs. income, as well as marital status vs. income, it is recommended that stakeholders focus supportive services on pre-graduate individuals, as well as people who are not currently married (including widows and people who are separated).
+
 **For any additional questions, please contact nemcrociata@gmail.com**
